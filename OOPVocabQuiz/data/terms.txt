@@ -1,0 +1,60 @@
+Abstract Class
+A class that cannot be instantiated.
+Containment
+Indicates a whole-part relationship, and are known as "has-a" relationships. Also known as aggregation.
+Algorithm
+A procedure that can take input. Through computational steps the input is transformed into output.
+Array
+A fixed data structure that can hold a collection of elements (identified by index position).
+Association
+A generic relationship between two classes.
+Base 10
+A numeral system with 10 values (0-9).
+Base 2
+A numeral system with symbols that represent two values.
+Binary
+Relating to, or using, the base-2 numeral system (values are expressed with only two symbols: 0 and 1).
+Bit
+A single binary number.
+Boolean
+A data type with a binary value (such as: true or false, 1 or 0, or on and off).
+Byte
+Eight bits (8 bits can hold one of 256 values (from 0-255).
+Character
+A data type that stores a single character, and in C# is surrounded by single quote marks: 'c'.
+Class
+A template of a type of object.
+Class Diagram
+Used to design or model the class structure in a system, including properties and methods.
+Code Block
+A statement or statements enclosed in curly braces {}. It can contain nested blocks.
+Compiler
+Produces executable (.exe) files. (It can also create dynamic-link libraries or code modules).
+Concatenation
+The operation of joining two things together; in c# it adds two strings together with an operator.
+Dependency
+An object that another object relies on (for example, a member variable or parameter).
+Encapsulation
+Related members are treated as a single unit; external behavior is separate from internal implementation details.
+Function
+A series of statements that perform a logical operation or set of operations. 
+Generalization
+The equivalent of an inheritance relationship in object-oriented terms (an "is-a" relationship).
+IDE
+Software that allows you to write, compile, and debug as you develop applications.
+Identifier
+Names programmers choose (such as for classes, methods, and variables).
+Instance
+A specific object instantiated from a class.
+Literal
+A primitive piece of data.
+Object
+An instance of a class.
+Polymorphism
+Multiple classes used interchangeably; each class implements the same properties or methods in different ways.
+Pseudocode
+A set of instructions in plain English. It does not use any language-specific syntax, and is easily understood.
+Recursion
+Something defined in terms of itself (or its type); in code, a structure that calls itself can have this.
+Ternary Operator
+An operator that works on three operands. 
